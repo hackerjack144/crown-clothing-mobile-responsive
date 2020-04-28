@@ -1,0 +1,15 @@
+Point to Remember:
+
+class <name> extends React.PureComponent => in case of class component we will use PureReact for application performance
+
+const <name> = () => (
+
+);
+
+export default React.memo(<name>);  => in case of functional component we will use React.memo function of react. 
+
+
+Cheat Sheet:
+
+https://houssein.me/progressive-react
+
